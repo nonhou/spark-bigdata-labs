@@ -1,6 +1,6 @@
 # 大数据分析与应用实验（Spark RDD / Spark SQL）
 
-《大数据分析与应用》课程实验报告与代码。在 Ubuntu 环境下用 PySpark 完成 RDD 编程与 Spark SQL 两组实验。
+在 Ubuntu 环境下用 PySpark 完成 RDD 编程与 Spark SQL 两组实验。
 
 ## 环境要求
 
